@@ -1,6 +1,3 @@
-print(" o")    
-print("/|\\")   
-print("/ \\")
 import random
 
 words=("apple","banana","orange","coconut","pineapple")
